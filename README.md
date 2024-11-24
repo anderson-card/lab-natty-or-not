@@ -1,5 +1,5 @@
-# Título do Projeto Extremamente Aesthetic ;)
-"Como a Inteligência Artificial pode auxiliar um Scrum Master"
+# "Como a Inteligência Artificial pode auxiliar um Scrum Master 🤖"
+
 
 ## 📒 Descrição
 Meu projeto é para uso pessoal, pois atualmente atuo como "Scrum Master" de dois times de desenvolvimento de sistemas bancários , para um grande cliente nacionalmente conhecido, que por coincidência é o mesmo banco que patrocina o Bootcamp a Caixa Economica Federal. 
