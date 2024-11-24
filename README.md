@@ -14,9 +14,11 @@ Eu utilizei o Gemini como base de pesquisa e brainstorm de ideias, após utilize
 Com algumas imagens totalmentes criadas pela inteligencia artificial.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Fiquei muito impressionado como as ferramentas pode auxiliar nosso trabalho no dia a dia , e deixar alguns trabalhos que são mais repetitivos de forma automatizada e ter mais insigts para tomadas de decisões.
 
-<iframe src="https://gamma.app/embed/mwl61z0scdlug7g" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Revolucionando o Scrum: O Poder da IA para o Scrum Master"></iframe>
+O Resultado do arquivo pode ser visualizado no link abaixo :
+
+https://gamma.app/embed/mwl61z0scdlug7g  ou https://gamma.app/embed/Revolucionando-o-Scrum-O-Poder-da-IA-para-o-Scrum-Master-mwl61z0scdlug7g?mode=doc
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar um conteúdo do zero usando totalmente IA, foi bem fácil, a ferramenta praticamente fez tudo sozinho, devemos tomar cuidado e ter bastante atenção no que se pede no prompt da IA , pois é através dele que IA responde ou gera os conteúdos que precisamos, em relação as respostas temos que ter atenção também 
